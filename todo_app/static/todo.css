@@ -1,0 +1,8 @@
+
+tr{
+    box-shadow: 1px 5px 5px  brown;
+}
+.main-box{
+    background:linear-gradient(to bottom,rgb(255, 172, 172),rgb(174, 174, 253));
+    padding:2rem;
+}
